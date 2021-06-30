@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Panitabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/pranitabh-roy-b18413181/)
+[![Linkedin Badge](https://img.shields.io/badge/-Pranitabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/pranitabh-roy-b18413181/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Pranitabh-yellow)](https://stackoverflow.com/users/16328251/pranitabh-roy)
 
 
