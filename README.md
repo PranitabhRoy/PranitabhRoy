@@ -4,8 +4,6 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Pranitabh-yellow)](https://stackoverflow.com/users/16328251/pranitabh-roy)
 
 
-I'm
-Student,
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include python,c,c++, mysql and frontend trainee with html, css and jacvascript.
 
 <!--
